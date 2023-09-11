@@ -5,4 +5,5 @@
 
 #### For start
 * npm i -D nodemon
+* (if needed npm install mongoose)
 * npm run dev
